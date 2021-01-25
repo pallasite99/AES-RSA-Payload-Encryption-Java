@@ -15,3 +15,6 @@
 4. This will give us the original data.
 
 `Note:` Any tampering with the RSA/AES key data during data transmission will result in an error on the server side. This ensures that the data sent is secure.
+
+* This code was tested in VSCode with a Maven Java implementation.
+* Current size for the RSA key block is 2048.
